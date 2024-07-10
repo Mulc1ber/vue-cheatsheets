@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./app-BgnATip1.js";const o={};function r(n,s){return a(),t("div")}const i=e(o,[["render",r],["__file","index.html.vue"]]),d=JSON.parse('{"path":"/pages/methods/","title":"","lang":"ru-RU","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"pages/methods/README.md"}');export{i as comp,d as data};
